@@ -1,9 +1,24 @@
 {
-  "name": "@lapita/initializr",
-  "version": "0.0.1",
-  "peerDependencies": {
-    "@angular/common": "^9.0.7",
-    "@angular/core": "^9.0.7",
-    "tslib": "^1.10.0"
-  }
+    "name": "@lapita/initializr",
+    "version": "0.0.2",
+    "peerDependencies": {
+        "@angular/core": "^9.0.0",
+        "tslib": "^1.10.0"
+    },
+    "keywords": [
+        "angular",
+        "material"
+    ],
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bugs": {
+        "url": "https://github.com/flatstadt/initializr/issues"
+    },
+    "homepage": "https://github.com/flatstadt/initializr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/flatstadt/initializr"
+    }
 }
