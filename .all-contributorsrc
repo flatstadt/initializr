@@ -1,0 +1,26 @@
+{
+  "projectName": "initializr",
+  "projectOwner": "flatstadt",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "flatstadt",
+      "name": "Carlos Vilacha",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1565222?v=4",
+      "profile": "http://carlosvilacha.com",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

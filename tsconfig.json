@@ -17,8 +17,7 @@
     ],
     "paths": {
       "@lapita/initializr": [
-        "dist/lapita/initializr/lapita-initializr",
-        "dist/lapita/initializr"
+        "projects/lapita/initializr/src/public-api.ts"
       ]
     }
   },
